@@ -7,5 +7,15 @@
   "grade": "7-G",
   "role": "teacher",
   "created": "2026-11-14T14:14:59.888Z"
+ },
+ {
+  "id": "3f2dab5c-6102-441f-9a35-ef5cbee093c2",
+  "email": "",
+  "name": "Nethindu Thaminda",
+  "hash": "$2a$10$UJel9FJ2WDwFK1A/q3wWuOmXfPo437VO8y9tggcxJbZxoiZq926Bi",
+  "grade": "8-G",
+  "no": "32",
+  "role": "student",
+  "created": "2026-11-14T15:29:58.626Z"
  }
 ]
