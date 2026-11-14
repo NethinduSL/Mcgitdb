@@ -17,5 +17,15 @@
   "no": "32",
   "role": "student",
   "created": "2026-11-14T15:29:58.626Z"
+ },
+ {
+  "id": "db37f95a-9311-4434-a7ab-af2dc8d0884f",
+  "email": "",
+  "name": "Grade6ict",
+  "hash": "$2a$10$GHNhMl3QwB6xUJyAvqbwJ.YITGIz7YNVPF.WHnisYhwmJp2FZuO4a",
+  "grade": "",
+  "no": "",
+  "role": "teacher",
+  "created": "2026-11-14T15:34:14.266Z"
  }
 ]
