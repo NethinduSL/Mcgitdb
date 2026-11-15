@@ -1,1 +1,11 @@
-[]
+[
+ {
+  "id": "48c03ee4-b58a-4ccb-8d24-2d3bf90711d3",
+  "pollId": "2d1fd77e-10aa-48ed-99c5-458b13de9855",
+  "studentId": "d4e1778e-32a5-49fd-b666-82dc25ad102d",
+  "answers": {
+   "485e744a": 1
+  },
+  "submittedAt": "2026-11-15T07:51:13.484Z"
+ }
+]
